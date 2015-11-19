@@ -1,6 +1,10 @@
-## Your Name
+## Dominic Batten
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Recent maths graduate and passionate problem solver with a love for beautiful and functional websites.
+
+After a few years of various work placements and internships in the finance and law sector, I realised that it wasn't something I wanted to do for the rest of my life. So I identified something that I do want to do with the rest of my life and decided to turn my interest in technology and design into a potential career by joining Makers Academy and learning how to code.
+
+I'm currently looking to join an environment where I can continue to learn and be challenged, specifically in a role with a focus on TDD, cutting-edge front-end technologies and innovation.
 
 ## Skills
 
