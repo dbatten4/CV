@@ -27,20 +27,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (September to December 2015)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+Intensive 12 week coding bootcamp with a focus on good practice as well as learning current technologies.
+- Good Practice
+ - Pair programming and group projects with twice daily standups and weekly retrospectives.
+ - TDD and BDD with a focus on readable and maintainable code.
+ - Encouragement to learn and challenge ourselves.
+- Current Technologies
+ - A variety of front-end and back-end languages with a focus on Ruby and Javascript
+ - Several testing frameworks, including Rspec, Capybara and Jasmine.
+- Also got really good at table tennis.
 
-#### Your University / College (start_date to end_date)
+#### Durham University (Sep 2011 - Jun 2014)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- First Class BSc Hons in Natural Sciences (Maths and Physics).
+- Took an introductory module in Java.
+- Co-founder and DJ at student night playing Soul, Disco and Funk music.
 
 #### Any other qualifications
 
