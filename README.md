@@ -27,7 +27,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (September to December 2015)
+#### Makers Academy (Sep to Dec 2015)
 
 Intensive 12 week coding bootcamp with a focus on good practice as well as learning current technologies.
 - Good Practice
@@ -43,13 +43,21 @@ Intensive 12 week coding bootcamp with a focus on good practice as well as learn
 
 - First Class BSc Hons in Natural Sciences (Maths and Physics).
 - Took an introductory module in Java.
-- Co-founder and DJ at student night playing Soul, Disco and Funk music.
+- Co-founder and DJ at a student night playing Soul, Disco and Funk music.
 
 #### Any other qualifications
 
+- A Levels: 4A* grades in Maths, Further Maths, Physics and Spanish.
+- GCSE: 10A* grades.
+
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Henchman App** (Aug to Dec 2014)
+*Content Manager*
+- In charge of the content to be displayed on the app. Key tasks involved collating restaurant data to be displayed in the app, researching new business leads and building ways to automate the process of uploading data to the website. Also helped out with the finance and marketing aspects of the business.
+**Fairer Finance** (July 2014)
+*Data Analyst*
+- Researched financial companies transparency and commitment to customer relations, collecting data and converting it to be displayed on the company's website.
+
+## Interests
+Guitar, Table Tennis and Photos (dbattenphotos.tumblr.com)
