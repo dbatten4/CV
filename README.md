@@ -8,22 +8,26 @@ I'm currently looking to join an environment where I can continue to learn and b
 
 ## Skills
 
-#### This Skill
+#### Front End Design
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Throughout the duration of my learning experience so far I've developed a love for the creative aspect of software development and I enjoy the process of designing a website just as much as I enjoy building it. The following code examples are the ones I am most proud of in terms of design.
 
-- Experience
-- Achievements
-- Evidence
+|Project Name|Description|
+|------------|-----------|
+|[Grape](https://github.com/dbatten4/music_discover)|A social music discovery site using the Neo4j graph database and Ruby on Rails framework. Javascript and Jquery used to make the website responsive and interactive|
+|[READMEter](https://github.com/dbatten4/readmeter)|A web app built on Angular which tells a user which of their GitHub repos don't have READMEs. Jquery used to create a responsive interface and SASS used to compile the CSS files (currently a work in progress)|
+|[Rock, Paper, Scissors](https://github.com/dbatten4/rps-challenge)|A simple game of RPS built in Ruby with the Sinatra framework. Used a Wacom tablet to draw the graphics and images|
 
-#### Another Skill
+#### Technical Skills and Technologies
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Technical Skills and Technologies
+---------------------------------
+| |Most Comfortable|Comfortable|Touched on|
+|---------|----------------|-------------------|------------------------------|
+|Languages|Javascript, Ruby|HTML, CSS|SQL|
+|Frameworks|Angular, Rails|Sinatra|Ionic|
+|Testing|RSpec, Capybara, Jasmine|Karma|Protractor|
+|Other|Git Version Control, Standups|Design Sprints, Agile|
 
 ## Education
 
@@ -61,3 +65,11 @@ Intensive 12 week coding bootcamp with a focus on good practice as well as learn
 
 ## Interests
 Guitar, Table Tennis and Photos (dbattenphotos.tumblr.com)
+
+## Contact & Links
+------------------
+- Email: [dominic.batten@googlemail.com](dominic.batten@googlemail.com)
+- Phone: 07814841706
+- LinkedIn: [Dominic Batten](https://uk.linkedin.com/in/dominic-batten-669996a0)
+- CodeWars: http://www.codewars.com/users/dbatten4
+- Stack Overflow: http://stackoverflow.com/users/5234611/dbatten
