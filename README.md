@@ -20,13 +20,11 @@ Throughout the duration of my learning experience so far I've developed a love f
 
 #### Technical Skills and Technologies
 
-Technical Skills and Technologies
----------------------------------
 | |Most Comfortable|Comfortable|Touched on|
 |---------|----------------|-------------------|------------------------------|
 |Languages|Javascript, Ruby|HTML, CSS|SQL|
-|Frameworks|Angular, Rails|Sinatra|Ionic|
-|Testing|RSpec, Capybara, Jasmine|Karma|Protractor|
+|Frameworks|Angular, Rails|Sinatra, SASS|Ionic|
+|Testing|RSpec, Capybara, Jasmine|Karma, Factory Girl|Protractor|
 |Other|Git Version Control, Standups|Design Sprints, Agile|
 
 ## Education
@@ -67,7 +65,6 @@ Intensive 12 week coding bootcamp with a focus on good practice as well as learn
 Guitar, Table Tennis and Photos (dbattenphotos.tumblr.com)
 
 ## Contact & Links
-------------------
 - Email: [dominic.batten@googlemail.com](dominic.batten@googlemail.com)
 - Phone: 07814841706
 - LinkedIn: [Dominic Batten](https://uk.linkedin.com/in/dominic-batten-669996a0)
