@@ -54,10 +54,10 @@ Intensive 12 week coding bootcamp with a focus on good practice as well as learn
 
 ## Experience
 
-**Henchman App** (Aug to Dec 2014)
+#### Henchman App (Aug to Dec 2014)
 *Content Manager*
 - In charge of the content to be displayed on the app. Key tasks involved collating restaurant data to be displayed in the app, researching new business leads and building ways to automate the process of uploading data to the website. Also helped out with the finance and marketing aspects of the business.
-**Fairer Finance** (July 2014)
+#### Fairer Finance (July 2014)
 *Data Analyst*
 - Researched financial companies transparency and commitment to customer relations, collecting data and converting it to be displayed on the company's website.
 
