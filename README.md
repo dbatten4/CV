@@ -65,9 +65,6 @@ Intensive 12 week coding bootcamp with a focus on good practice as well as learn
 ## Interests
 Guitar, Table Tennis, Arsenal and Photos (dbattenphotos.tumblr.com)
 
-## Contact & Links
-- Email: [dominic.batten@googlemail.com](dominic.batten@googlemail.com)
-- Phone: 07814841706
-- LinkedIn: [Dominic Batten](https://uk.linkedin.com/in/dominic-batten-669996a0)
+## Links
 - CodeWars: http://www.codewars.com/users/dbatten4
 - Stack Overflow: http://stackoverflow.com/users/5234611/dbatten
