@@ -60,7 +60,7 @@ Intensive 12 week coding bootcamp with a focus on good practice as well as learn
 
 #### Fairer Finance (July 2014)
 *Data Analyst*
-- Researched financial companies transparency and commitment to customer relations, collecting data and converting it to be displayed on the company's website.
+- Researched financial companies' transparency and commitment to customer satisfaction, collecting data and converting it to be displayed on the company's website.
 
 ## Interests
 Guitar, Table Tennis, Arsenal and Photos (dbattenphotos.tumblr.com)
