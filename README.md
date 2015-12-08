@@ -63,7 +63,7 @@ Intensive 12 week coding bootcamp with a focus on good practice as well as learn
 - Researched financial companies transparency and commitment to customer relations, collecting data and converting it to be displayed on the company's website.
 
 ## Interests
-Guitar, Table Tennis, Arsenal and Photos (dbattenphotos.tumblr.com)
+Guitar, Table Tennis, Arsenal and [Photos](dbattenphotos.tumblr.com)
 
 ## Links
 - CodeWars: http://www.codewars.com/users/dbatten4
